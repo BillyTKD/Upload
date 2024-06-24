@@ -8,14 +8,14 @@ Este é um aplicativo Flutter para testar a função de storage do Firebase
 
 ## Capturas de Tela
 
-![Tela Inicial](images/tela.jpeg)
-![Tela Firebase](images/pos.jpeg)
-![Tela de teste](testOK.jpeg)
+![Tela Inicial](imagens/tela.jpeg)
+![Tela Firebase](imagens/pos.jpeg)
+![Tela de teste](imagens/testOK.jpeg)
 
 ## Como Executar
 
 1. Clone este repositório
-
+   ```sh
    git clone https://github.com/BillyTKD/Upload.git
 
 2. Navegue até o diretório do projeto
