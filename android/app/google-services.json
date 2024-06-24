@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "649595255234",
+      "project_id": "projeto-pos-b0f2b",
+      "storage_bucket": "projeto-pos-b0f2b.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:649595255234:android:aec13a47db125352ef3e5b",
+          "android_client_info": {
+            "package_name": "br.com.lmcursos.talos"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCynsQ_POEmClIONvCCwCu3vOqDMMVC3ig"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
